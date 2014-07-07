@@ -1,0 +1,14 @@
+﻿生成启动时间为 2014/6/17 15:55:19。
+     1>项目“D:\Work\RE_ltsDemo\RE_ltsDemo.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Work\RE_ltsDemo\Debug\REDemo-LTS.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Work\RE_ltsDemo\Debug\REDemo-LTS.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Work\RE_ltsDemo\Debug\REDemo-LTS.lib" /MACHINE:X86 Debug\mdspi.obj
+         Debug\test.obj
+         Debug\traderspi.obj
+         api\trade\win\lib\securitymduserapi.lib
+         api\trade\win\lib\securitytraderapi.lib
+         RE_ltsDemo.vcxproj -> D:\Work\RE_ltsDemo\Debug\REDemo-LTS.exe
+     1>已完成生成项目“D:\Work\RE_ltsDemo\RE_ltsDemo.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.83
